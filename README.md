@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @jacobfaseler
 - 👀 I’m interested in ...
-  - TI RTOS
-  - LiPo Recycling
+  - Embedded RTOS
+  - Battery Technologies
   - Aerospace 
-  - Analog Design
+  - Analog, Power, and Mixed-Signal Design
 - 🌱 I’m currently learning ...
-  - SMPS Design
+  - Stability Analysis
   - RHBD best practices
 - 💞️ I’m looking to collaborate on ...
   - An automated testing apparatus that qualifyies recycled 18650 cells for demanding applications
